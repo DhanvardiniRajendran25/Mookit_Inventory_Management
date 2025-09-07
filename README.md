@@ -1,6 +1,8 @@
 # 🛒 Mookit: Move-In Essentials Inventory and Order Management System
 
-An **end-to-end full-stack application** for managing move-in essentials inventory and orders.  
+An **end-to-end full-stack application** for managing move-in essentials inventory and orders. 
+
+ 
 This project integrates **SQL Server database, backend APIs, frontend UI, and analytics dashboards**, demonstrating **secure database design, full-stack development, and data-driven insights**.
 
 ![Picture1](https://github.com/user-attachments/assets/80a4f21a-c5fe-4397-ae2d-5e4911dea4da)
