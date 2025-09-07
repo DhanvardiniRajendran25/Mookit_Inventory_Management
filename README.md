@@ -18,6 +18,16 @@ Organizations managing **inventory, orders, and move-in essentials** often rely 
 
 ---
 
+## 💡 Proposed Solution
+Mookit provides a **centralized inventory and order management platform** that ensures:
+- 📦 **Real-time Inventory Tracking**  
+- 🛒 **Order Placement & Processing**  
+- 📑 **Billing & Invoicing Automation**  
+- 📊 **Analytics Dashboard (Power BI)**  
+- 🔒 **Role-Based Access Control**  
+
+---
+
 ## 📌 Features
 
 ### 🔐 Database (SQL Server)
@@ -77,16 +87,6 @@ Organizations managing **inventory, orders, and move-in essentials** often rely 
 
 ### 📊 Analytics
 - Power BI  
-
----
-
-## 💡 Proposed Solution
-Mookit provides a **centralized inventory and order management platform** that ensures:
-- 📦 **Real-time Inventory Tracking**  
-- 🛒 **Order Placement & Processing**  
-- 📑 **Billing & Invoicing Automation**  
-- 📊 **Analytics Dashboard (Power BI)**  
-- 🔒 **Role-Based Access Control**  
 
 ---
 
