@@ -1,0 +1,36 @@
+/* Navbar.css */
+
+.navbar {
+  background-color: #3498db; /* Vibrant blue */
+  padding: 15px 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  justify-content: center; /* Center-align the navigation items */
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  margin: 0 15px; /* Even spacing between items */
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white; /* White text for contrast */
+  font-size: 1.1rem;
+  font-weight: bold;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.navbar a:hover {
+  color: #f4f4f9; /* Light grey on hover */
+  transform: scale(1.1); /* Subtle zoom effect */
+}
+
+.navbar a.active {
+  border-bottom: 2px solid #f4f4f9; /* Highlight the active page */
+}
